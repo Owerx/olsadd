@@ -1,0 +1,76 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js
+File Name: D:\webb\oooppk.pro\ajax\libs\jquery-cookie\1.4.1\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.js
+File Name: D:\webb\oooppk.pro\ajax\libs\jquery.maskedinput\1.4.1\jquery.maskedinput.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.1.min.js
+File Name: D:\webb\oooppk.pro\jquery-3.6.1.min.js
+Content Type: application/javascript
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/css/style.css
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\css\style.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/favicon.ico
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/bol-1.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\bol-1.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/bol-10.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\bol-10.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/bol-2.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\bol-2.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/bol-3.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\bol-3.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/bol-4.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\bol-4.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/bol-5.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\bol-5.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/bol-6.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\bol-6.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/bol-7.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\bol-7.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/bol-8.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\bol-8.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/bol-9.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\bol-9.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/i-phone.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\i-phone.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/pechat.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\pechat.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/test-skv-2_1689927417/assets/7267/images/StarOne.png
+File Name: D:\webb\oooppk.pro\lander\test-skv-2_1689927417\assets\7267\images\StarOne.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/tRkvD2
+File Name: D:\webb\oooppk.pro\tRkvD2.html
+Content Type: text/html
+
